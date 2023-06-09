@@ -1,0 +1,13 @@
+/home/azamat.kaibaldiyev/miniconda3/envs/contrastive_env/lib/python3.10/site-packages/torchvision/transforms/functional.py:1603: UserWarning: The default value of the antialias parameter of all the resizing transforms (Resize(), RandomResizedCrop(), etc.) will change from None to True in v0.17, in order to be consistent across the PIL and Tensor backends. To suppress this warning, directly pass antialias=True (recommended, future default), antialias=None (current default, which means False for Tensors and True for PIL), or antialias=False (only works on Tensors - PIL will still use antialiasing). This also applies if you are using the inference transforms from the models weights: update the call to weights.transforms(antialias=True).
+  warnings.warn(
+cuda:0
+2592 648
+torch.Size([4, 1, 96, 96]) torch.Size([4, 96, 96])
+torch.Size([4, 10, 96, 96])
+  0%|          | 0/3 [00:00<?, ?it/s]
+  0%|          | 0/81 [00:00<?, ?it/s]
+0 2.1224121635342823
+  0%|          | 0/81 [00:00<?, ?it/s]
+1 1.7506875932952504
+  0%|          | 0/81 [00:00<?, ?it/s]
+2 1.6679916308249956
