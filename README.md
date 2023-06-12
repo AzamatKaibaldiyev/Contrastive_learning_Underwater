@@ -1,2 +1,2 @@
-# Contrastive_learning_SimcCLR
+# Contrastive_test
 
