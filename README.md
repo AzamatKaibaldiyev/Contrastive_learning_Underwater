@@ -11,3 +11,6 @@ The contents of folders are explained below:
 - segmentation: segmentations codes related to terrestrial dataset of Sweden
 
 - tile_divider: codes related to obtaining dataset of Sweden (merging DEMs, dividing, finding corresponding image etc.)
+
+
+Adding Jupyter notebooks:
