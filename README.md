@@ -14,6 +14,5 @@ The contents of folders are explained below:
 
 
 Adding Jupyter notebooks:
-
-
+ - Jupyter notebooks contains notebooks used for segmentation, contrastive learning on Swedish dataset and Underwater dataset. Also notebooks related to merging, dividing tiles from Swedish and underwater datasets.
 
